@@ -10,7 +10,7 @@ programming, networking and Linux environments.
 ## Selected Projects
 
 ### [ft_irc](https://github.com/sinpistas/ft_irc)
-Multi-client IRC server developed in C++ using TCP sockets and `poll()`.
+Multi-client IRC server developed in C++ using TCP sockets and poll().
 
 **C++ · TCP/IP · Sockets · poll() · IRC**
 
