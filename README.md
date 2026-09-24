@@ -3,14 +3,14 @@
 C/C++ developer focused on backend and systems programming.
 
 I have 12 years of experience teaching C and C++ programming to engineering
-students and professionals. I am currently studying at 42 Málaga, where I
-work on hands-on software engineering projects involving systems programming,
-networking and Linux environments.
+students and professionals. I am currently completing the 42 Málaga software
+engineering curriculum, working on hands-on projects involving systems
+programming, networking and Linux environments.
 
 ## Selected Projects
 
 ### [ft_irc](https://github.com/sinpistas/ft_irc)
-Multi-client IRC server developed in C++ using TCP sockets and poll().
+Multi-client IRC server developed in C++ using TCP sockets and `poll()`.
 
 **C++ · TCP/IP · Sockets · poll() · IRC**
 
@@ -38,7 +38,3 @@ generated from a 2D map.
 **Systems:** Linux, Bash, TCP/IP, Sockets  
 **Tools:** Git, Make  
 **Project experience:** Docker, Nginx, MariaDB
-
-## Currently
-
-Studying at 42 Málaga and focusing on backend, systems and network programming.
